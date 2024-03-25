@@ -1,6 +1,9 @@
 # HelldiversStrategemCaller
 ## General info
 This is a personal project of a gamer and student who just likes to play helldivers. If you would like to download it and use it for yourself, feel free to do so. I will try to keep this file up-to-date so you can follow updates and stuff here.
+## Play and app store
+The app won't be downloadable on the play store because it costs a pretty penny. I'm still in college and don't want to spend my money on this. If there are enough people who really want to get it on the play store I can setup some kind of donation thing to fund the play store cost. I don't expect much from this, if you don't have money DON'T donate please. Only donate if you can affort it and if you want to help the project get onto the play store!
+The app won't be available on the app store because I don't have any developement tools for apple apps and there it is even more of a hassle to get it on the store.
 ## How to use
 First start with cloning this repo to your local machine. The java server should be done and you can just start it by using the jar or exe. For the app you will have to install it with android studio for now, [explenation](#app) down below. After installing the app and opening the server you can give the ip address of the phone to the server client and click connect. You will see in de console below if a connection has been established. You then can use the app to call in stratagems. The server is implemented to use the arrow keys as input for the strategems so you will have to change that in game. You will also have to set the stratagem menu to "tap" and NOT "hold". Also you will have to hold the big menu button for around half a second before the arrow keys menu opens, I made it like that to prevent players from accidentally opening the menu.
 ## Server (java)
