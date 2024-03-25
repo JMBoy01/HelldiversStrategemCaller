@@ -1,6 +1,8 @@
 # HelldiversStrategemCaller
 ## General info
 This is a personal project of a gamer and student who just likes to play helldivers. If you would like to download it and use it for yourself, feel free to do so. I will try to keep this file up-to-date so you can follow updates and stuff here.
+## How to use
+First start with cloning this repo to your local machine. The java server should be done and you can just start it by using the jar or exe. For the app you will have to install it with android studio for now, [explenation](https://github.com/JMBoy01/HelldiversStrategemCaller/edit/main/README.md#android-app-kotlin) down below. 
 ## Server (java)
 The java server is packaged in an exe and you can use that to run it. I build the jar with the gradle build tool and things like JavaFX should be included in the compiled jar, if not so let me know! I also tried to include the JRE (Java Runtime Environment) in the exe but I wasn't able to test that yet. To package the jar in an exe I used [Launch4j](https://launch4j.sourceforge.net/) and I included the config file the server folder.
 ## Android app (kotlin)
